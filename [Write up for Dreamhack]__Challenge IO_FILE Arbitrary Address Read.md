@@ -1,4 +1,4 @@
-# **[Write up for Dreamhack]__Challenge: IO_FILE Arbitrary Address Read**  
+# [Write up for Dreamhack]__Challenge: IO_FILE Arbitrary Address Read  
 **Author: datious**
 
 iofile_aaw.c
